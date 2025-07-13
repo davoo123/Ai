@@ -1,0 +1,374 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy.\nApplications and devices equipped with AI can see and identify objects. They can understand and respond to human language. They can learn from new information and experience. They can make detailed recommendations to us...",
+    "source": "https://www.ibm.com/think/topics/artificial-intelligence",
+    "date": "2025-07-04 05:51:15.976567"
+  },
+  {
+    "question": "How does a neural network work?",
+    "answer": "Images for download on the MIT News office website are made available to non-commercial entities, press and the general public under a \n    Creative Commons Attribution Non-Commercial No Derivatives license.\n    You may not alter the images provided, other than to crop them to size. A credit line must be used when reproducing images; if one is not provided \n    below, credit the images to \"MIT.\" \n...",
+    "source": "https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414",
+    "date": "2025-07-04 05:51:37.223429"
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning (RL) is an interdisciplinary area of machine learning and optimal control concerned with how an intelligent agent should take actions in a dynamic environment in order to maximize a reward signal. Reinforcement learning is one of the three basic machine learning paradigms, alongside supervised learning and unsupervised learning.\n\nReinforcement learning differs from supervise...",
+    "source": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+    "date": "2025-07-04 05:52:00.564716"
+  },
+  {
+    "question": "What are the different types of machine learning?",
+    "answer": "Machine learning (ML) technologies can drive decision-making in virtually all industries, from healthcare to human resources to finance and in myriad use cases, like computer vision, large language models (LLMs), speech recognition, self-driving cars and more.\nHowever, the growing influence of ML isn’t without complications. The validation and training datasets that undergird ML technology are oft...",
+    "source": "https://www.ibm.com/think/topics/machine-learning-types",
+    "date": "2025-07-04 05:52:22.264159"
+  },
+  {
+    "question": "What is the difference between AI, machine learning, and deep learning?",
+    "answer": "Deep learning is machine learning, and machine learning is artificial intelligence. But how do they fit together (and how do you get started learning)? \nYouâve probably heard the terms artificial intelligence (AI), machine learning, and deep learning thrown around in recent years. While related, each of these terms has its own distinct meaning, and they're more than just buzzwords used to descri...",
+    "source": "https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide",
+    "date": "2025-07-04 05:52:45.201701"
+  },
+  {
+    "question": "What is a dataset in machine learning?",
+    "answer": "Please enable JavaScript to view this site.\nA dataset in machine learning and artificial intelligence refers to a collection of data that is used to train and test algorithms and models. These datasets are crucial to the development and success of machine learning and AI systems, as they provide the necessary input and output data for the algorithms to learn from.\nDatasets of all kinds, including ...",
+    "source": "https://encord.com/glossary/datasets-definition/",
+    "date": "2025-07-04 05:53:08.119069"
+  },
+  {
+    "question": "How do AI models learn from data?",
+    "answer": "Artificial Intelligence (AI) has become an integral part of modern business. Its potential to automate processes, optimize operations for increased profitability, and support decision-making is invaluable. However, AI penetrates almost all areas of life – not just business, but also entertainment, medicine, and science. What enables AI system to have such wide applications is its ability to learn,...",
+    "source": "https://www.univio.com/blog/how-does-artificial-intelligence-learn/",
+    "date": "2025-07-04 05:53:32.335564"
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a machine learning technique that uses human-labeled input and output datasets to train artificial intelligence models. The trained model learns the underlying relationships between inputs and outputs, enabling it to predict correct outputs based on new, unlabeled real-world input data.\nLabeled data consists of example data points along with the correct outputs or answers. A...",
+    "source": "https://www.ibm.com/think/topics/supervised-learning",
+    "date": "2025-07-04 05:54:03.082039"
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning, also known as unsupervised machine learning, uses machine learning (ML) algorithms to analyze and cluster unlabeled data sets. These algorithms discover hidden patterns or data groupings without the need for human intervention.\nUnsupervised learning's ability to discover similarities and differences in information make it the ideal solution for exploratory data analysis, cro...",
+    "source": "https://www.ibm.com/think/topics/unsupervised-learning",
+    "date": "2025-07-04 05:54:27.102140"
+  },
+  {
+    "question": "What is semi-supervised learning?",
+    "answer": "Semi-supervised learning is a branch of machine learning that combines supervised and unsupervised learning by using both labeled and unlabeled data to train artificial intelligence (AI) models for classification and regression tasks.\nThough semi-supervised learning is generally employed for the same use cases in which one might otherwise use supervised learning methods, it’s distinguished by vari...",
+    "source": "https://www.ibm.com/think/topics/semi-supervised-learning",
+    "date": "2025-07-04 05:54:49.629632"
+  },
+  {
+    "question": "AI in Practice",
+    "answer": "Professionals across many industries, such as finance, health care, and film, benefit from the use of AI. Learn more about artificial intelligence by exploring real-world examples.\nArtificial intelligence is an exciting field projected to grow exponentially in the next decade. By exploring real-world uses, you can get to know the diverse applications of AI and how you might be able to apply this p...",
+    "source": "https://www.coursera.org/articles/artificial-intelligence-examples",
+    "date": "2025-07-04 05:55:11.817842"
+  },
+  {
+    "question": "How is AI used in personal assistants?",
+    "answer": "Hi everyone, I’m looking for a personal assistant to support me with meeting notes, to-do lists, calendar, contacts, etc.\n    \n\n      There are a few AI powered assistants around, does anyone have a good one to recommend? Can you share your experiences? What works well and what doesn’t?\n    \n\n      Thanks for your time to help me saving my time… 😅",
+    "source": "https://www.reddit.com/r/ArtificialInteligence/comments/1d3p8lu/whats_the_best_ai_personal_assistant/",
+    "date": "2025-07-04 05:55:34.294591"
+  },
+  {
+    "question": "How does speech recognition work in AI?",
+    "answer": "Speech recognition, also known as automatic speech recognition (ASR), computer speech recognition or speech-to-text, is a capability that enables a program to process human speech into a written format.\nWhile speech recognition is commonly confused with voice recognition, speech recognition focuses on the translation of speech from a verbal format to a text one whereas voice recognition just seeks...",
+    "source": "https://www.ibm.com/think/topics/speech-recognition",
+    "date": "2025-07-04 05:55:57.542398"
+  },
+  {
+    "question": "What is natural language processing (NLP)?",
+    "answer": "Natural language processing (NLP) is a subfield of computer science and artificial intelligence (AI) that uses machine learning to enable computers to understand and communicate with human language.\nNLP enables computers and digital devices to recognize, understand and generate text and speech by combining computational linguistics, the rule-based modeling of human language together with statistic...",
+    "source": "https://www.ibm.com/think/topics/natural-language-processing",
+    "date": "2025-07-04 05:56:21.883574"
+  },
+  {
+    "question": "How do chatbots understand human language?",
+    "answer": "Chatbots work by using artificial intelligence (AI) and natural language processing (NLP) technologies to understand and interpret human language. When a user interacts with a chatbot, it analyzes the input and tries to understand its intent. It does this by comparing the user's request to a set of predefined keywords and phrases that it has been programmed to recognize. Based on these keywords an...",
+    "source": "https://boost.ai/learn/chatbot/how-do-chatbots-work/",
+    "date": "2025-07-04 05:56:43.591319"
+  },
+  {
+    "question": "How does text-to-speech (TTS) technology work?",
+    "answer": "Text-to-speech (TTS) is a type of assistive technology that reads digital text aloud. It’s sometimes called “read aloud” technology. TTS can take words on a computer or other digital device and convert them into audio. TTS is very helpful for kids who struggle with reading, but it can also help kids with writing and editing, and even focusing.\nText-to-speech (TTS) is a type of assistive technology...",
+    "source": "https://www.readingrockets.org/topics/assistive-technology/articles/text-speech-technology-what-it-and-how-it-works",
+    "date": "2025-07-04 05:57:08.317089"
+  },
+  {
+    "question": "How does speech-to-text (STT) technology work?",
+    "answer": "Inbound Content Lead, AI Productivity & IBM Consulting\nSpeech to text is the process of converting spoken words into a text transcript. Sometimes referred to as voice to text, it is available mostly as a software-based service (SaaS).\nIt typically combines artificial intelligence-powered speech recognition technology, also known as automatic speech recognition, with transcription. A computer progr...",
+    "source": "https://www.ibm.com/think/topics/speech-to-text",
+    "date": "2025-07-04 05:57:30.223589"
+  },
+  {
+    "question": "What is a transformer model in AI?",
+    "answer": "If you want to ride the next big wave in AI, grab a transformer.\nThey’re not the shape-shifting toy robots on TV or the trash-can-sized tubs on telephone poles.\nA transformer model is a neural network that learns context and thus meaning by tracking relationships in sequential data like the words in this sentence.\nTransformer models apply an evolving set of mathematical techniques, called attentio...",
+    "source": "https://blogs.nvidia.com/blog/what-is-a-transformer-model/",
+    "date": "2025-07-04 05:57:53.347360"
+  },
+  {
+    "question": "What is GPT and how does it generate text?",
+    "answer": "Generative Pre-trained Transformers, commonly known as GPT, are a family of neural network models that uses the transformer architecture and is a key advancement in artificial intelligence (AI) powering generative AI applications such as ChatGPT. GPT models give applications the ability to create human-like text and content (images, music, and more), and answer questions in a conversational manner...",
+    "source": "https://aws.amazon.com/what-is/gpt/",
+    "date": "2025-07-04 05:58:14.830747"
+  },
+  {
+    "question": "How does image recognition work in AI?",
+    "answer": "Image recognition is the ability of computers to identify and classify specific objects, places, people, text and actions within digital images and videos. As an application of computer vision, image recognition software works by analyzing and processing the visual content of an image or video and comparing it to learned data, allowing the software to automatically “see” and interpret what is pres...",
+    "source": "https://builtin.com/artificial-intelligence/image-recognition",
+    "date": "2025-07-04 05:58:36.627728"
+  },
+  {
+    "question": "What is face recognition and how does it work?",
+    "answer": "Facial recognition is a way of identifying or confirming an individual’s identity using their face. Facial recognition systems can be used to identify people in photos, videos, or in real-time.\nFacial recognition is a category of biometric security. Other forms of biometric software include voice recognition, fingerprint recognition, and eye retina or iris recognition. The technology is mostly use...",
+    "source": "https://usa.kaspersky.com/resource-center/definitions/what-is-facial-recognition?srsltid=AfmBOoorwhcZDabbV4Ha_sx-fXljzDomVzdD9O1mPgPCojpOMLoXmBL_",
+    "date": "2025-07-04 05:59:03.354896"
+  },
+  {
+    "question": "What is self-learning AI?",
+    "answer": "Artificial intelligence (AI) solutions have achieved much in the past decade, seeping into all corners of our everyday life. \nSome of these AI solutions offer easy convenience, such as voice assistants. Other AI tools support checking grammar and formulation of the written (or typed) word. Newer AI technology can even generate ideas and text copy to assist humans in their content creation process,...",
+    "source": "https://www.monolithai.com/blog/what-is-a-self-learning-model",
+    "date": "2025-07-04 05:59:34.145517"
+  },
+  {
+    "question": "How can AI learn from the internet automatically?",
+    "answer": "The acquisition of knowledge has always been one of the greatest challenges in the field of artificial intelligence. Some AI projects like Cyc spent 30 years manually composing a database of common facts, and as new things continue to happen, that is a task without end. How convenient then, the advent of the internet: The largest collection of information already in digital form. With the increase...",
+    "source": "https://artistdetective.wordpress.com/2020/03/07/what-ai-learned-from-the-internet/",
+    "date": "2025-07-04 06:00:01.517642"
+  },
+  {
+    "question": "How do AI models store new knowledge?",
+    "answer": "Disclaimer: I am not an AI expert and only have basic and limited knowledge on this subject. This is just an idea I’m exploring, and I’d love feedback from those with more experience to see if it’s feasible or what challenges might arise.\n    \n\n      I've been thinking about an idea for an automated AI fine-tuning pipeline—a system that allows an AI model to continuously learn new information, ing...",
+    "source": "https://www.reddit.com/r/LocalLLaMA/comments/1jfnnwh/exploring_an_idea_an_ai_model_that_can/",
+    "date": "2025-07-04 06:00:23.511193"
+  },
+  {
+    "question": "What are large language models (LLMs)?",
+    "answer": "Large language models, also known as LLMs, are very large deep learning models that are pre-trained on vast amounts of data. The underlying transformer is a set of neural networks that consist of an encoder and a decoder with self-attention capabilities. The encoder and decoder extract meanings from a sequence of text and understand the relationships between words and phrases in it.\nTransformer LL...",
+    "source": "https://aws.amazon.com/what-is/large-language-model/",
+    "date": "2025-07-04 06:00:46.050967"
+  },
+  {
+    "question": "What is fine-tuning in AI?",
+    "answer": "Fine-tuning in machine learning is the process of adapting a pre-trained model for specific tasks or use cases. It has become a fundamental deep learning technique, particularly in the training process of foundation models used for generative AI.\nFine-tuning could be considered a subset of the broader technique of transfer learning: the practice of leveraging knowledge an existing model has alread...",
+    "source": "https://www.ibm.com/think/topics/fine-tuning",
+    "date": "2025-07-04 06:01:09.365261"
+  },
+  {
+    "question": "How does AI perform real-time voice interaction?",
+    "answer": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up...",
+    "source": "https://www.ringcentral.com/us/en/blog/voice-recognition-ai/",
+    "date": "2025-07-04 06:01:34.755317"
+  },
+  {
+    "question": "How can AI detect human emotions from voice or text?",
+    "answer": "In today’s fast-paced digital world, understanding customer emotions is more crucial than ever. That’s why it’s cool that we have AI emotion recognition tools that analyze facial expressions and voice patterns to gauge human feelings. \nThis technology is transforming customer service interactions, marketing strategies, and even mental health support.\nLet’s talk about how emotion recognition AI is ...",
+    "source": "https://autogpt.net/how-ai-is-understanding-human-emotions/",
+    "date": "2025-07-04 06:01:56.966170"
+  },
+  {
+    "question": "How can AI animate a face using voice and expressions?",
+    "answer": "AI-created visuals are rapidly becoming one of the most exciting technologies associated with Generative AI platforms. This tool allows everyday users and corporate professionals to create compelling, eye-popping image and video marketing campaigns without the steep learning curve previously associated with graphic design. As a result, companies are turning to tools like talking face animation to ...",
+    "source": "https://akool.com/blog-posts/how-to-create-a-talking-face-animation-with-ai",
+    "date": "2025-07-04 06:02:20.358875"
+  },
+  {
+    "question": "What is the best way to secure AI-generated content?",
+    "answer": "The potential of AI, especially generative AI, is immense. As innovation moves forward, the industry needs security standards for building and deploying AI responsibly. Thatâs why we introduced the Secure AI Framework (SAIF), a conceptual framework to secure AI systems.\nSAIF is designed to address top of mind concerns for security professionals, such as AI/ML model risk management, security and ...",
+    "source": "https://safety.google/cybersecurity-advancements/saif/",
+    "date": "2025-07-04 06:02:41.260234"
+  },
+  {
+    "question": "How can AI integrate with external APIs like Google Search?",
+    "answer": "Have you ever found yourself in a situation where you needed to pull data from an external source directly into Google Sheets? You're not alone. The good news is that Google Sheets can talk to external APIs, making data integration easier than ever before. Imagine the time you can save by automating data retrieval instead of copying and pasting it manually!\nThis article will walk you through the p...",
+    "source": "https://www.thebricks.com/resources/guide-how-to-use-an-external-api-in-google-sheets-using-ai",
+    "date": "2025-07-04 06:03:02.969958"
+  },
+  {
+    "question": "How does AI run on Raspberry Pi?",
+    "answer": "",
+    "source": "",
+    "date": "2025-07-04 06:03:24.628756"
+  },
+  {
+    "question": "What are the limitations of Raspberry Pi for AI tasks?",
+    "answer": "Something went wrong. Wait a moment and try again.",
+    "source": "https://www.quora.com/What-are-the-limitations-of-Raspberry-Pi",
+    "date": "2025-07-04 06:03:56.329717"
+  },
+  {
+    "question": "Which sensors are used in AI surveillance systems?",
+    "answer": "Trusted by 100,000+ organizations globally\n    \nArtificial intelligence (AI) encompasses sophisticated technologies that enable machines to learn from data, perform complex tasks and make informed decisions. In security, AI is revolutionizing the industry by processing vast amounts of data in real-time, significantly enhancing accuracy and response efficiency. For example, AI-powered security came...",
+    "source": "https://www.avigilon.com/blog/ai-security-cameras",
+    "date": "2025-07-04 06:04:21.836747"
+  },
+  {
+    "question": "How can USB-C power be safely used on custom PCBs?",
+    "answer": "I'm a tinkerer with a very basic knowledge of electronics and I need some help.\n    \n\n      I designed a PCB that uses a 2.1mm DC barrel jack to power it and I just realised I could try and power it with a USB C receptacle but I am confused on how to do it because of the power negotiation stuff I have read about in my google searches.\n    \n\n      It is currently powered by a 5V 6A 25W Mean Well po...",
+    "source": "https://www.reddit.com/r/AskElectronics/comments/nzeedg/redesigning_a_pcb_to_use_usbc_power/",
+    "date": "2025-07-04 06:04:46.277331"
+  },
+  {
+    "question": "How to deploy AI models on edge devices?",
+    "answer": "Combining AI with edge computing can be complex. The edge is a place where resource costs must be controlled and other IT optimization initiatives, like cloud computing, are difficult to apply.\nEdge computing is an application deployment model where part or all of an application is hosted near the real-world system it's designed to support. These applications are often described as real-time and I...",
+    "source": "https://www.techtarget.com/searchenterpriseai/tip/A-guide-to-deploying-AI-in-edge-computing-environments",
+    "date": "2025-07-04 06:05:07.025495"
+  },
+  {
+    "question": "What are the ethical issues in AI?",
+    "answer": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up...",
+    "source": "https://www.coe.int/en/web/human-rights-and-biomedicine/common-ethical-challenges-in-ai",
+    "date": "2025-07-04 06:05:30.855655"
+  },
+  {
+    "question": "Can AI replace human emotions or relationships?",
+    "answer": "Essentially, this is asking two questions. Let's deal with them separately. And I've clear stances on both questionsEDIT: I've got to go for work now. I'll reply to any more messages when I come back. Sorry about it\n    \n\n1. Can Artificial Intelligence replace all human relationships?Yes, it can.\n\n\n      For this one, I'm having a very strong opinion that yes, AI can replace all human relationship...",
+    "source": "https://www.reddit.com/r/changemyview/comments/1d3b7xp/cmv_artificial_intelligence_is_very_much_capable/",
+    "date": "2025-07-04 06:05:56.531930"
+  },
+  {
+    "question": "How can AI help preserve memories of loved ones?",
+    "answer": "At a cemetery in eastern China, bereaved father Seakoo Wu places his phone on a gravestone and plays a recording of his son. They are words that the late student never spoke, but brought into being with AI.\nOn June 18, AI image-generation company Midjourney released a tool that lets users create short video clips using their own images as a template. Days later, Reddit cofounder Alexis Ohanian pos...",
+    "source": "https://time.com/7298290/ai-death-grief-memory/",
+    "date": "2025-07-04 06:06:19.078677"
+  },
+  {
+    "question": "What is explainable AI (XAI)?",
+    "answer": "Explainable artificial intelligence (XAI) is a set of processes and methods that allows human users to comprehend and trust the results and output created by machine learning algorithms.\nExplainable AI is used to describe an AI model, its expected impact and potential biases. It helps characterize model accuracy, fairness, transparency and outcomes in AI-powered decision making. Explainable AI is ...",
+    "source": "https://www.ibm.com/think/topics/explainable-ai",
+    "date": "2025-07-04 06:06:44.876171"
+  },
+  {
+    "question": "What is the future of AI in daily life?",
+    "answer": "Innovations in the field of artificial intelligence continue to shape the future of humanity across nearly every industry. AI is already the main driver of emerging technologies like big data, robotics and IoT, and generative AI has further expanded the possibilities and popularity of AI. \nAccording to a 2023 IBM survey, 42 percent of enterprise-scale businesses integrated AI into their operations...",
+    "source": "https://builtin.com/artificial-intelligence/artificial-intelligence-future",
+    "date": "2025-07-04 06:07:10.903635"
+  },
+  {
+    "question": "Hello what is your name?",
+    "answer": "",
+    "source": "",
+    "date": "2025-07-04 06:07:32.599598"
+  },
+  {
+    "question": "what can you do for me?",
+    "answer": "\"What Can You Do for Me\" is a song by English electronic group Utah Saints. It was released on 12 August 1991[1] as the first single from their self-titled debut album (1992). The song reached number 10 on the UK Singles Chart and number three on the UK Dance Singles Chart. It uses samples from \"There Must Be an Angel (Playing with My Heart)\" by Eurythmics and \"Ain't Nothin' Goin' on But the Rent\"...",
+    "source": "https://en.wikipedia.org/wiki/What_Can_You_Do_for_Me",
+    "date": "2025-07-04 06:07:55.039519"
+  },
+  {
+    "question": "what is the time now?",
+    "answer": "Holiday Note: 4 जुलाई, Independence Day. Businesses may be closed. See more\nMore Sun & Moon in Orlando+ Show More Twilight and Moon Phase Information",
+    "source": "https://www.timeanddate.com/worldclock/usa/orlando",
+    "date": "2025-07-04 06:08:21.526190"
+  },
+  {
+    "question": "What is the difference between AI, machine learning, and deep learning?",
+    "answer": "Deep learning is machine learning, and machine learning is artificial intelligence. Learn how do they fit together and how to get started learning.\nEven if youâre not involved in the world of data science, youâve probably heard the terms artificial intelligence (AI), machine learning, and deep learning thrown around in recent years. Sometimes, theyâre even used interchangeably. While related...",
+    "source": "https://www.coursera.org/ca/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide",
+    "date": "2025-07-04 06:35:24.169904"
+  },
+  {
+    "question": "what can you do?",
+    "answer": "",
+    "source": "",
+    "date": "2025-07-04 07:28:41.687201"
+  },
+  {
+    "question": "who made you?",
+    "answer": "\"We Made You\" is a song by American rapper Eminem from his sixth studio album Relapse (2009). It was released as the second single from the album on April 7, 2009. \"We Made You\" was written by Eminem, Dr. Dre, Dawaun Parker, Mark Batson, Trevor Lawrence Jr. and Walter Egan. Production was handled by Dr. Dre, with Eminem and Doc Ish serving as additional co-producers.\n\n\"We Made You\" received genera...",
+    "source": "https://en.wikipedia.org/wiki/We_Made_You",
+    "date": "2025-07-04 07:29:07.796194"
+  },
+  {
+    "question": "for what?",
+    "answer": "Expand your vocabulary and dive deeper into language with Merriam-Webster Unabridged.\n      \n\n        Discover what makes Merriam-Webster Unabridged the essential choice\n        for true word lovers.\n      \n\n                                            “For what.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/for%20what. Accessed 4 Jul. 2025.           ...",
+    "source": "https://www.merriam-webster.com/dictionary/for%20what",
+    "date": "2025-07-04 07:29:33.948093"
+  },
+  {
+    "question": "Hi",
+    "answer": "15th century, in the meaning defined above\n\n                                            “Hi.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/hi. Accessed 4 Jul. 2025.                                        \nNglish: Translation of hi for Spanish Speakers\nSubscribe to America's largest dictionary and get thousands more definitions and advanced search—ad f...",
+    "source": "https://www.merriam-webster.com/dictionary/hi",
+    "date": "2025-07-04 07:29:58.535045"
+  },
+  {
+    "question": "Hello",
+    "answer": "20% off sitewide | use code july20 at checkout\nnatural mint with aloe vera + coconut oil\nnatural mint with aloe vera + coconut oil\nyour everyday family shenanigans, but sprinkled with fairy dust. we're talking about taking those regular moments and zhuzhing them up. because why not? with a dash of sparkle, a pinch of pizzazz, and a whole lot of \"heck yes,\" we're on a mission to make the mundane mo...",
+    "source": "https://www.hello-products.com/?srsltid=AfmBOoo33hrWbMn0q9azfWEtRq1US4vxrFIxyy_YwFC16QKtDtt7zONr",
+    "date": "2025-07-04 07:30:26.486972"
+  },
+  {
+    "question": "How are you?",
+    "answer": "No matter where you go, one question always seems to follow: How are you?\nIt can be a simple, effective way to start a casual conversation—no lengthy descriptions of your life circumstances required. But it’s also an autopilot phrase—with autopilot responses (such as “fine,” “good,” or “OK”) within easy reach. So if you’re going for a deep or meaningful conversation, this question might not be the...",
+    "source": "https://www.grammarly.com/blog/writing-tips/how-are-you/",
+    "date": "2025-07-04 07:30:49.377251"
+  },
+  {
+    "question": "Tell me a joke",
+    "answer": "Want to join the mod team? Click here to apply!\n\n\n      Please grace this thread with witty humour. Dirty or self-deprecating jokes aint welcomed. I just wanna have a good laugh, esp since I come across too many sad and hopeless threads on here. Thanks ya'll in advance 😁",
+    "source": "https://www.reddit.com/r/CasualConversation/comments/1ek6vyh/tell_me_a_funny_joke/",
+    "date": "2025-07-04 07:31:16.790755"
+  },
+  {
+    "question": "What is your purpose?",
+    "answer": "I've been thinking a lot about this question recently. Life is very short, and when I'm old and in my last days, I want to be able to look back and say that my life mattered. That I didn't just waste it. That I did justice to the opportunities I was given and contributed something valuable to improve this world.\n    \n\n      I've been reading about Stoicism and one of the things that has resonated ...",
+    "source": "https://www.reddit.com/r/simpleliving/comments/8mt1fk/what_is_your_purpose_in_life/",
+    "date": "2025-07-04 07:32:03.294712"
+  },
+  {
+    "question": "Who created you?",
+    "answer": "Get all 156 Future Music Records releases available on Bandcamp and save 35%.\nIncludes unlimited streaming via the free Bandcamp app, plus high-quality downloads of\n\n        \n            \n        \n\n        \n        \n            \n                The Architect,\n            \n            \n        \n            \n                Ritual,\n            \n            \n        \n            \n                Mush...",
+    "source": "https://beatspace-futuremusic.bandcamp.com/album/who-created-you",
+    "date": "2025-07-04 07:32:31.893254"
+  },
+  {
+    "question": "What languages do you speak?",
+    "answer": "We had a brief discussion about this in my office today. Is one more right than the other?",
+    "source": "https://www.reddit.com/r/grammar/comments/4q2921/what_languages_do_you_speak_or_which_languages_do/",
+    "date": "2025-07-04 07:32:55.332465"
+  },
+  {
+    "question": "Can you help me?",
+    "answer": "",
+    "source": "",
+    "date": "2025-07-04 07:33:17.676655"
+  },
+  {
+    "question": "What is your favorite color?",
+    "answer": "We get it! Picking a favorite color can be daunting, especially when there are thousands upon thousands to choose from. Do you opt for a pleasing periwinkle, a buoyant blue, or a radiant red? Ah! There are just too many options!\n\nWell, why not leave the picking to your personality? Believe it or not, your characteristics and traits can say a lot about your likes and dislikes—including your favorit...",
+    "source": "https://www.wikihow.com/What-Is-My-Favorite-Color",
+    "date": "2025-07-04 07:33:40.849554"
+  },
+  {
+    "question": "Do you have emotions?",
+    "answer": "That blows my mind, 80% of my day is spent feeling nothing or just kinda being neutral. People ask me how I'm feeling and I genuinely have no answer other than \"fine\". Is that really not normal? I asked some of my friends and they said they are always feeling something...",
+    "source": "https://www.reddit.com/r/Alexithymia/comments/1479k7s/do_people_actually_feel_emotions_all_the_time/",
+    "date": "2025-07-04 07:34:07.226081"
+  },
+  {
+    "question": "How old are you?",
+    "answer": "My Age Calculator accurately calculates your exact age and gives the answer of How old am I? \nDo you want to know \"How old you are?\", then you are in the right place. This simple and easy to use age calculator helps you to calculate and learn your age in traditional European and American manner, based on your birthdate. Calculate your exact age more accurately with timezone and birth time options....",
+    "source": "https://www.myagecalculator.com/",
+    "date": "2025-07-04 07:34:36.114566"
+  },
+  {
+    "question": "What is the weather today?",
+    "answer": "Thunderstorms possible after 11 AM. Locally heavy rainfall possible.",
+    "source": "https://weather.com/weather/today/l/St.+Petersburg+FL?canonicalCityId=037a46c67155d2b7a8ca3345ee134288",
+    "date": "2025-07-04 07:35:05.378742"
+  },
+  {
+    "question": "What is your version?",
+    "answer": "A powerful new platform created with your ministry in mind.\nConnecting everyone, everywhere, to God’s Word every day.",
+    "source": "https://www.youversion.com/",
+    "date": "2025-07-04 07:35:28.435505"
+  },
+  {
+    "question": "Goodbye",
+    "answer": "alteration of God be with you \n\n                                            “Goodbye.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/goodbye. Accessed 4 Jul. 2025.                                        \n\n                a shortened and altered form of God be with you \nNglish: Translation of goodbye for Spanish Speakers\nSubscribe to America's largest d...",
+    "source": "https://www.merriam-webster.com/dictionary/goodbye",
+    "date": "2025-07-04 07:35:52.578944"
+  }
+]

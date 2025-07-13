@@ -1,0 +1,60 @@
+{
+  "mood": "angry",
+  "memory": [
+    {
+      "timestamp": "2025-07-04T10:49:39.400647",
+      "input": "hi",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T10:50:08.972578",
+      "input": "what can you do",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:13:29.279133",
+      "input": "get data",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:14:24.831928",
+      "input": "get the data",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:14:46.177838",
+      "input": "Daud",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:15:05.637732",
+      "input": "time",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:15:29.478986",
+      "input": "do you know what to say",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:15:48.696509",
+      "input": "do you have emotions",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:16:44.766151",
+      "input": "what is your favourite colour",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:17:03.375245",
+      "input": "what is your favourite colour",
+      "mood": "neutral"
+    },
+    {
+      "timestamp": "2025-07-04T11:17:15.402203",
+      "input": "hate you",
+      "mood": "neutral"
+    }
+  ]
+}
